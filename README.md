@@ -105,6 +105,10 @@ The LLM generates Beamer code from the LaTeX source, but since the first run may
 
 The unified `paper2slides.py` script automates the entire process, typically completing in less than a few minutes with GPT-4.1 for a single paper.
 
+## Notable Forks
+
+- [paper2slides-plus](https://github.com/whats2000/paper2slides-plus) by [@whats2000](https://github.com/whats2000) — An enhanced fork with additional features and improvements.
+
 > [!WARNING]
 > The script will download files from the internet (arXiv), send information to the OpenAI API, and compile locally. Please be cautious about the content being shared and the potential risks.
 
